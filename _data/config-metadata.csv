@@ -8,7 +8,7 @@ date,Date Created,,
 description,Description,,
 language,Language,,
 image_alt_text,Image Alt Text,,
-subject,Subject,true,true
+subject,Subject,true,,
 location,Location,,
 source,Source,true,
 type,Type,,
