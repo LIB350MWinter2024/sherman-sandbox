@@ -4,14 +4,14 @@ title,Title,,
 file name,File Name,,
 format,Format,,
 creator,Creator,true,
-date,Date Created,,
+datecreated,Date,,
 description,Description,,
-language,Language,,
-image_alt_text,Image Alt Text,,
-subject,Subject,true,,
+image_alt_text,Alt Text,,
+subject,Subjects,true,
 location,Location,,
-source,Source,true,
-type,Type,,
+source,Source,,true
+citation,Citation,,
+type,Work Type,,
+language,Language,,
 rights,Rights Statement,,true
 creativecommons,Creative Commons License,,true
-citation,Citation,,true
