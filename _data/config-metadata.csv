@@ -10,7 +10,7 @@ image_alt_text,Alt Text,,
 subject,Subjects,true,
 location,Location,,
 source,Source,,
-citation,Citation,,true
+citation,Citation,,
 type,Work Type,,
 language,Language,,
 rights,Rights Statement,,
